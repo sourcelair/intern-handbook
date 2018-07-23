@@ -23,3 +23,9 @@ We wrote this handbook, in order to help you get oriented inside our company and
 - [Git](_tech/_tools/git.md)
 - GitHub
 - Slack
+
+## Topics
+
+### Workflow
+
+- New features and bug fixes
