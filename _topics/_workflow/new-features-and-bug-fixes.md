@@ -12,4 +12,4 @@ Below we provide you with the required steps for starting work on a new feature 
 4. **[Push to the `origin` remote](https://help.sourcelair.com/git/pushing-to-a-remote/)** to synchronise your personal fork with `upstream`.
 5. **[Create a new branch](https://help.sourcelair.com/git/creating-a-branch/)** for your upcoming work.
 6. **Write and commit your code**.
-7. **Open a new Pull Request in GitHub** 
+7. **Open a new [Pull Request](https://help.github.com/articles/about-pull-requests/) in GitHub** 

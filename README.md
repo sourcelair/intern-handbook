@@ -28,4 +28,5 @@ We wrote this handbook, in order to help you get oriented inside our company and
 
 ### Workflow
 
-- New features and bug fixes
+- [New features and bug fixes](_topics/_workflow/new-features-and-bug-fixes.md)
+- [Releases](_topics/_workflow/releases.md)
